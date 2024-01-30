@@ -13,7 +13,10 @@ In simple terms, Flask, a web framework, relies on three main parts to work prop
 2. **Book Name**: Flask Web Development_ Developing Web Applications with Python, **Writer**: Miguel Grinberg
 ## Topics Covered Here
 ### 1. Introduction To Flask Web Framework
+User Request   -->   Web Server   -->   Flask Application   -->   View Function   -->   Response   -->   Web Server   -->   User Browser
+
 ### 2. Setting VSCode IDE To Learn Flask Web Framework For Machine Learning
+
 ### 3. Understanding A Sample Flask Web Application Skeleton
 ### 4. Building Url Dynamically In Flask Web Framework
 ### 5. Integrating HTML With FLASK Web Framework With HTTP VERBS(Get And POST)
