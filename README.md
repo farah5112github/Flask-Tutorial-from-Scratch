@@ -1,7 +1,15 @@
 # FLASK-Tutorial-from-Scratch
 ## What is FLASK?
-Flask is a web framework for building websites and web applications using Python. It helps developers create web pages and handle user interactions easily. 
-Think of it like a toolbox that provides tools and shortcuts for building websites without having to write everything from scratch. It's popular because it's simple to use and flexible, making it great for both beginners and experienced developers.
+Flask is a web framework for building websites and web applications using Python. It helps developers create web pages and handle user interactions easily. Think of it like a toolbox that provides tools and shortcuts for building websites without having to write everything from scratch. 
+In simple terms, Flask, a web framework, relies on three main parts to work properly:
+**Routing:** It decides what code to run for different URLs
+**Debugging:** It helps find and fix errors in code
+**WSGI subsystem:** It handles communication between web servers and Python web applications.
+**Jinja2:** This is used for templates in Flask. Templates help to create HTML pages dynamically by combining static HTML with data from the application.
+**Click:** Click helps Flask integrate with the command line. It allows developers to create custom commands that can be run from the terminal to perform tasks related to their Flask application.
+
+All these parts were created by Armin Ronacher, who is also the creator of Flask. They work together to make Flask a powerful and flexible web framework.
+
 ## Learning Sources
 1. [Kris Naik FLASK tutorial](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 2. **Book Name**: Flask Web Development_ Developing Web Applications with Python, **Writer**: Miguel Grinberg
