@@ -15,7 +15,7 @@ In simple terms, Flask, a web framework, relies on the following parts to work p
 
 **Routing:** It decides what code to run for different URLs.<br><br>
 **Debugging:** It helps find and fix errors in code.<br><br>
-**WSGI subsystem:** It works as the bridge that allows the Flask app to receive requests from clients, process them, and send back responses.<br><br>
+**WSGI subsystem:** WSGI is crucial for server-side communication, it does not have a direct role in client-side processes. Its primary purpose is to enable seamless interaction between web servers and Python web applications on the server side.<br><br>
 **Jinja2:** Jinja2 is like a tool that helps Flask to create web pages by combining HTML with dynamic content.<br><br>
 
 ## Learning Sources
@@ -23,18 +23,12 @@ In simple terms, Flask, a web framework, relies on the following parts to work p
 2. **Book Name**: Flask Web Development_ Developing Web Applications with Python, **Writer**: Miguel Grinberg
 
 ## Topics Covered Here
-### 1. Introduction To Flask Web Framework
+### 1. Run your first FLASK code
 User Request   -->   Web Server   -->   Flask Application   -->   View Function   -->   Response   -->   Web Server   -->   User Browser
-
-### 2. Setting VSCode IDE To Learn Flask Web Framework For Machine Learning
-
-### 3. Understanding A Sample Flask Web Application Skeleton
-### 4. Building Url Dynamically In Flask Web Framework
-### 5. Integrating HTML With FLASK Web Framework With HTTP VERBS(Get And POST)
-### 6. Understanding Jinja2 Template Engine In Flask Web Framework
-### 7. Integrating CSS and Javascript in Flask Web Framework
-### 8. Video Streaming Using Webcam In Flask Web Framework
-### 9. OpenCV Face And Eye Detection In Flask Web Framework
-### 10. Face Recognition Project In Flask Web Framework- Recognize Different Faces Easily
+### 2. Run a simple calculator using FLASK [HTTP verbs (Get and POST), dynamic url, integrating with HTML, CSS and javascript, understanding Jinja2 template] 
+### 3. Run a simple discount app using FLASK [HTTP verbs (Get and POST), dynamic url, integrating with HTML, CSS and javascript, understanding Jinja2 template] 
+### 4. Video Streaming Using Webcam In Flask
+### 5. OpenCV Face And Eye Detection In Flask Web Framework
+### 6. Face Recognition Project In Flask- Recognize Different Faces Easily
 
 
